@@ -1,7 +1,8 @@
 package domain;
 
 /**
- * Created by codingBoy on 16/10/23.
+ * Model
+ * CustomerBean
  */
 public class Customer
 {

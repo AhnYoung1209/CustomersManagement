@@ -14,7 +14,8 @@ import java.util.List;
 import java.util.spi.CurrencyNameProvider;
 
 /**
- * Created by codingBoy on 16/10/23.
+ * sql operation
+ * DAO 实现类——>可以改进为接口和实现类
  */
 public class CustomerDao
 {

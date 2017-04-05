@@ -3,7 +3,8 @@ package domain;
 import java.util.List;
 
 /**
- * Created by codingBoy on 16/10/29.
+ * Model
+ * Completed by Bean
  */
 public class PageBean<Object>
 {

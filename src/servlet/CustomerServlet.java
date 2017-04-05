@@ -15,7 +15,8 @@ import java.io.UnsupportedEncodingException;
 import java.util.List;
 
 /**
- * Created by codingBoy on 16/10/23.
+ * Controller
+ * handle the request:add find etc.
  */
 public class CustomerServlet extends BaseServlet {
     private CustomerService customerService = new CustomerService();

@@ -7,7 +7,8 @@ import domain.PageBean;
 import java.util.List;
 
 /**
- * Define some services for customer.
+ * Define some services for customer:
+ * add findAll find edit delete query
  */
 public class CustomerService
 {
