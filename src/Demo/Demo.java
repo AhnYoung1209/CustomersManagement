@@ -8,6 +8,7 @@ import org.apache.commons.dbutils.QueryRunner;
 
 /**
  * Created by Joy Ann on 17/04/05.
+ * Using fetch 
  */
 public class Demo
 {
