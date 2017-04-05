@@ -7,7 +7,7 @@ import domain.PageBean;
 import java.util.List;
 
 /**
- * Created by codingBoy on 16/10/23.
+ * Define some services for customer.
  */
 public class CustomerService
 {
